@@ -1,0 +1,12 @@
+.Tilt {
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+	transform-style: preserve-3d;
+}
+
+.Tilt-inner {
+	transform: translateZ(20px);
+}
+
+img {
+	padding-top: 18px!important;
+}

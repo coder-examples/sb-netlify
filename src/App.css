@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  justify-content: center;
+  display: flex;
+}
+
+body {
+  background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
